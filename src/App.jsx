@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import Nav from './components/nav/Nav.jsx';
-import React from 'react';
-import ReactDOM from 'react-dom/client';
+
 
 import './App.css'
 
