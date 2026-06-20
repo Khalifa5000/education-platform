@@ -1,7 +1,7 @@
 import '../nav/Nav.css'
 const Nav = () => {
     return (
-        <>
+  
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>
@@ -10,7 +10,7 @@ const Nav = () => {
                     <li><a href="#">Contact</a></li>
                 </ul>
             </nav>
-        </>
+
     );
 }
 
