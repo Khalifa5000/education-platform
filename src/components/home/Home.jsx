@@ -8,7 +8,7 @@ const Home = () => {
         
             <>
         <div className="counter">
-            <h1>Educational Platform</h1>
+            <h2>My Journy in React</h2>
             
         </div>
         <p>our platform offers a wide range of courses and resources to help you achieve your educational goals. Whether you're looking to learn a new skill, advance your career, 
